@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qtpham0910 - a freshman
-- 👀 I’m interested in basketball, although I'm 5ft7 :D
+- 👀 I’m interested in basketball
 - 🌱 I’m currently learning CiS in HUS
 
 <!---
