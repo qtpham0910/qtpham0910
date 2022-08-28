@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qtpham0910 - a freshman
-- 👀  interested in basketball
+- 👀 Interesting in basketball🏀 and football⚽
 - 🌱 Studying CiS in HUS
 - 💤 Sleeping>Coding
 <!---
