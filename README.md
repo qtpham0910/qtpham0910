@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qtpham0910 - a freshman
 - 👀 Interesting in basketball🏀 and football⚽
-- 🌱 Studying CiS in HUS
+- 🌱 Studying CS&I in HUS
 - 💤 Sleeping>Coding
 <!---
 qtpham0910/qtpham0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
